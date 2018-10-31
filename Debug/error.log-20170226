@@ -1,0 +1,5 @@
+[Mon Feb 20 03:27:03.998076 2017] [ssl:warn] [pid 2345:tid 140490115008640] AH01909: RSA certificate configured for webappdev.queensu.ca:443 does NOT include an ID which matches the server name
+[Wed Feb 22 03:27:01.767091 2017] [ssl:warn] [pid 2345:tid 140490115008640] AH01909: RSA certificate configured for webappdev.queensu.ca:443 does NOT include an ID which matches the server name
+[Thu Feb 23 15:15:15.548202 2017] [ssl:warn] [pid 3708:tid 139773150271616] AH01909: RSA certificate configured for webappdev.queensu.ca:443 does NOT include an ID which matches the server name
+[Thu Feb 23 15:15:15.594518 2017] [ssl:warn] [pid 3708:tid 139773150271616] AH01909: RSA certificate configured for webappdev.queensu.ca:443 does NOT include an ID which matches the server name
+[Sun Feb 26 03:11:03.178161 2017] [ssl:warn] [pid 3708:tid 139773150271616] AH01909: RSA certificate configured for webappdev.queensu.ca:443 does NOT include an ID which matches the server name
